@@ -5,7 +5,7 @@
   justify-content: space-between;
   align-items: center;
   background: #ffffff;
-  padding: 0 10px 0 30px;
+  padding: 5px 10px 5px 30px;
 }
 .search-form {
   width: 400px;
@@ -14,7 +14,7 @@
 .search-form input {
   text-align: center;
   font-size: 15px;
-  color: silver;
+  color: black;
   padding: 4px;
   width: 210px;
   border-radius: 4px;
@@ -42,12 +42,18 @@
   color: black;
 }
 
-.instagram-letter {
-  margin-left: -260px;
-  font-size: 18px;
+.line {
+  margin-left: -310px;
 }
 
-.line {
-  margin-left: -280px;
+.insta-logo {
+  width: 100px;
+  margin-left: -290px;
+  padding-top: 19px;
+  padding-bottom: 10px;
+}
+
+.img-logo {
+  width: 100%;
 }
 
